@@ -11,7 +11,7 @@ public class Demo6c {
         String state2 = "\033[32mNew\033[0m York";
         int population2 = 8336817;
 
-        final String COLOR1 = "\033[32m";
+        
         final String COLOR2 = "\033[35m";
 
         final String RESET = "\033[0m"; 
